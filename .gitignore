@@ -1,3 +1,6 @@
 *.yaml
 elastic_search.yaml
 stf_connection.yaml
+
+#Jupyter checkpoints
+.ipynb_checkpoints
